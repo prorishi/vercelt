@@ -7,4 +7,4 @@ server.get("/", (request, response) => {
     response.end("hello");
 });
 
-server.listen(80);
+server.listen(process.env.PORT);
