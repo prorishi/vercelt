@@ -1,0 +1,23 @@
+{
+  "name": "vercelt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prorishi/vercelt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prorishi/vercelt/issues"
+  },
+  "homepage": "https://github.com/prorishi/vercelt#readme"
+}
